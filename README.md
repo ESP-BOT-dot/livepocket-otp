@@ -1,0 +1,2 @@
+# livepocket-otp
+Gmailに届くLivePocketの認証コードを一覧で表示するWebアプリ
